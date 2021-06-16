@@ -1,5 +1,11 @@
 ### Hi there 👋
-
+---
+<a href="https://github.com/srsathish92">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=srsathish92&count_private=true&show_icons=true&include_all_commits=true" />
+</a>
+<!--<a href="https://github.com/srsathish92">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srsathish92&layout=compact" />
+</a>-->
 <!--
 **srsathish92/srsathish92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
