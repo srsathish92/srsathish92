@@ -6,6 +6,15 @@
 <!--<a href="https://github.com/srsathish92">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srsathish92&layout=compact" />
 </a>-->
+
+#### Visitor Count
+![Sathish Subramanian vistor counts](https://profile-counter.glitch.me/{srsathish92}/count.svg)
+
+----
+
+![Sathish Subramanian github activity graph](https://activity-graph.herokuapp.com/graph?username=srsathish92&theme=react-dark)
+
+
 <!--
 **srsathish92/srsathish92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
