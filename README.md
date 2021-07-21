@@ -1,5 +1,6 @@
 ### Hi there 👋
 ---
+<br style="clear:both;" />
 <a href="https://github.com/srsathish92" style="float:left;width:49%;margin-bottom:20px;">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=srsathish92&count_private=true&show_icons=true&include_all_commits=true" />
 </a>
@@ -9,7 +10,7 @@
 <!--<a href="https://github.com/srsathish92">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srsathish92&layout=compact" />
 </a>-->
-<br />
+<br style="clear:both;" />
 
 #### Visitor Count
 ![Sathish Subramanian vistor counts](https://profile-counter.glitch.me/{srsathish92}/count.svg)
