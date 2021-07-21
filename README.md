@@ -3,6 +3,11 @@
 <a href="https://github.com/srsathish92">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=srsathish92&count_private=true&show_icons=true&include_all_commits=true" />
 </a>
+<br />
+<br />
+<a href="https://git.io/streak-stats" rel="nofollow">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=srsathish92" alt="GitHub Streak" style="max-width:100%;">
+</a>
 <!--<a href="https://github.com/srsathish92">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srsathish92&layout=compact" />
 </a>-->
