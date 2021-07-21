@@ -1,16 +1,15 @@
 ### Hi there 👋
 ---
-<a href="https://github.com/srsathish92">
+<a href="https://github.com/srsathish92" style="float:left;width:49%;margin-bottom:20px;">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=srsathish92&count_private=true&show_icons=true&include_all_commits=true" />
 </a>
-<br />
-<br />
-<a href="https://git.io/streak-stats" rel="nofollow">
+<a href="https://git.io/streak-stats" rel="nofollow" style="float:right;width:49%;margin-bottom:20px;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=srsathish92" alt="GitHub Streak" style="max-width:100%;">
 </a>
 <!--<a href="https://github.com/srsathish92">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srsathish92&layout=compact" />
 </a>-->
+<br />
 
 #### Visitor Count
 ![Sathish Subramanian vistor counts](https://profile-counter.glitch.me/{srsathish92}/count.svg)
